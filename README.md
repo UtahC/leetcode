@@ -45,6 +45,7 @@
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [C#](https://github.com/UtahC/leetcode/blob/master/algorithms/implement-queue-using-stacks/implement-queue-using-stacks.cs) | Easy |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [C#](https://github.com/UtahC/leetcode/blob/master/algorithms/delete-node-in-a-linked-list/delete-node-in-a-linked-list.cs) | Easy |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [C#](https://github.com/UtahC/leetcode/blob/master/algorithms/valid-anagram/valid-anagram.cs) | Easy |
+| 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [C#](https://github.com/UtahC/leetcode/blob/master/algorithms/binary-tree-paths/binary-tree-paths.cs) | Easy |
 | 258 | [Add Digits](https://leetcode.com/problems/add-digits/) | [Java](https://github.com/UtahC/leetcode/blob/master/algorithms/add-digits/add-digits.java) | Easy |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Java](https://github.com/UtahC/leetcode/blob/master/algorithms/move-zeroes/move-zeroes.java) | Easy |
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [C#](https://github.com/UtahC/leetcode/blob/master/algorithms/find-the-duplicate-number/find-the-duplicate-number.cs) | Hard |
