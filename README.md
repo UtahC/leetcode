@@ -49,6 +49,7 @@
 | 258 | [Add Digits](https://leetcode.com/problems/add-digits/) | [Java](https://github.com/UtahC/leetcode/blob/master/algorithms/add-digits/add-digits.java) | Easy |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Java](https://github.com/UtahC/leetcode/blob/master/algorithms/move-zeroes/move-zeroes.java) | Easy |
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [C#](https://github.com/UtahC/leetcode/blob/master/algorithms/find-the-duplicate-number/find-the-duplicate-number.cs) | Hard |
+| 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [C#](https://github.com/UtahC/leetcode/blob/master/algorithms/word-pattern/word-pattern.cs) | Easy |
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [Java](https://github.com/UtahC/leetcode/blob/master/algorithms/nim-game/nim-game.java) | Easy |
 | 299 | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [C#](https://github.com/UtahC/leetcode/blob/master/algorithms/bulls-and-cows/bulls-and-cows.cs) | Easy |
 | 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [Java](https://github.com/UtahC/leetcode/blob/master/algorithms/range-sum-query-immutable/range-sum-query-immutable.java) | Easy |
