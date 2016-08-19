@@ -42,7 +42,7 @@
 | 223 | [Rectangle Area](https://leetcode.com/problems/rectangle-area/) | [C#](https://github.com/UtahC/leetcode/blob/master/algorithms/rectangle-area/rectangle-area.cs) | Easy |
 | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [C#](https://github.com/UtahC/leetcode/blob/master/algorithms/implement-stack-using-queues/implement-stack-using-queues.cs) | Medium |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [C#](https://github.com/UtahC/leetcode/blob/master/algorithms/invert-binary-tree/invert-binary-tree.java) | Easy |
-| 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [CE](https://github.com/UtahC/leetcode/blob/master/algorithms/power-of-two/power-of-two.cs) | Easy |
+| 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [C#](https://github.com/UtahC/leetcode/blob/master/algorithms/power-of-two/power-of-two.cs) | Easy |
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [C#](https://github.com/UtahC/leetcode/blob/master/algorithms/implement-queue-using-stacks/implement-queue-using-stacks.cs) | Easy |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [C#](https://github.com/UtahC/leetcode/blob/master/algorithms/delete-node-in-a-linked-list/delete-node-in-a-linked-list.cs) | Easy |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [C#](https://github.com/UtahC/leetcode/blob/master/algorithms/valid-anagram/valid-anagram.cs) | Easy |
