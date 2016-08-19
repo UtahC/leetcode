@@ -13,6 +13,7 @@
 | 24 | [Swap Nodes in Pairs](https://oj.leetcode.com/problems/swap-nodes-in-pairs/) | [C#](https://github.com/UtahC/leetcode/blob/master/algorithms/swap-nodes-in-pairs/swap-nodes-in-pairs.cs) | Medium |
 | 26 | [Remove Duplicates from Sorted Array](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C#](https://github.com/UtahC/leetcode/blob/master/algorithms/remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.cs) | Easy |
 | 27 | [Remove Element](https://oj.leetcode.com/problems/remove-element/) | [Java](https://github.com/UtahC/leetcode/blob/master/algorithms/remove-element/remove-element.java) | Easy |
+| 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [C#](https://github.com/UtahC/leetcode/blob/master/algorithms/length-of-last-word/length-of-last-word.cs) | Easy |
 | 66 | [Plus One](https://oj.leetcode.com/problems/plus-one/) | [C#](https://github.com/UtahC/leetcode/blob/master/algorithms/plus-one/plus-one.cs) | Easy |
 | 70 | [Climbing Stairs](https://oj.leetcode.com/problems/climbing-stairs/) | [C#](https://github.com/UtahC/leetcode/blob/master/algorithms/climbing-stairs/climbing-stairs.cs) | Easy |
 | 83 | [Remove Duplicates from Sorted List](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list/) | [C#](https://github.com/UtahC/leetcode/blob/master/algorithms/remove-duplicates-from-sorted-list/remove-duplicates-from-sorted-list.cs) | Easy |
